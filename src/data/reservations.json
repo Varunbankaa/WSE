@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "guestName": "Ravi Kumar",
+    "date": "2025-06-25",
+    "time": "19:00",
+    "partySize": 4,
+    "table": 5,
+    "status": "confirmed"
+  },
+  {
+    "id": 2,
+    "guestName": "Sita Reddy",
+    "date": "2025-06-26",
+    "time": "20:30",
+    "partySize": 2,
+    "table": 3,
+    "status": "pending"
+  }
+]
